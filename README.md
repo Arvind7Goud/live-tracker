@@ -27,7 +27,7 @@
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla or Framework like React)  
 - **Mapping Library**: Leaflet.js / Google Maps API  
-- **Backend (Optional)**: Node.js with Express / Django / Flask  
+- **Backend (Optional)**: Node.js with Express
 - **APIs**: Geolocation API, Reverse Geocoding API  
 - **Version Control**: Git, GitHub  
 
@@ -37,5 +37,5 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/geo-location-tracker.git
-   cd geo-location-tracker
+   git clone https://github.com/Arvind7Goud/live-tracker.git
+   cd live-tracker
